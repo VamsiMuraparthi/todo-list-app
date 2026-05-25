@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="23E214" minimumToolsVersion="Xcode 9.0" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="TaskItem" representedClassName="TaskItem" syncable="YES">
+        <attribute name="id" optional="NO" attributeType="UUID" syncable="YES"/>
+        <attribute name="title" optional="NO" attributeType="String" syncable="YES"/>
+        <attribute name="details" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dueDate" optional="NO" attributeType="Date" syncable="YES"/>
+        <attribute name="isCompleted" optional="NO" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="hasAlarm" optional="NO" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+    </entity>
+</model>
