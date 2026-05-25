@@ -12,14 +12,14 @@ The app helps users organize tasks efficiently with:
 ---
 
 # 📸 Screenshots
-![Home](Screenshots/home-light.png)
-![Home](Screenshots/home-dark.png)
-![Add](Screenshots/add-todo-light.png)
-![Add](Screenshots/add-todo-dark.png)
-![Dashboard](Screenshots/dashboard-light.png)
-![Dashboard](Screenshots/dashboard-dark.png)
-![Progress](Screenshots/progress-light.png)
-![Progress](Screenshots/progress-dark.png)
+![Home](TodoListApp/Screenshots/home-light.png)
+![Home](TodoListApp/Screenshots/home-dark.png)
+![Add](TodoListApp/Screenshots/add-todo-light.png)
+![Add](TodoListApp/Screenshots/add-todo-dark.png)
+![Dashboard](TodoListApp/Screenshots/dashboard-light.png)
+![Dashboard](TodoListApp/Screenshots/dashboard-dark.png)
+![Progress](TodoListApp/Screenshots/progress-light.png)
+![Progress](TodoListApp/Screenshots/progress-dark.png)
 
 # ✨ Features
 
